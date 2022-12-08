@@ -64,6 +64,14 @@ body {
     margin: 0 auto;
 }
 
+.container .item .photo {
+    margin-bottom: 30px;
+}
+
+.container .item .photo img {
+    width: 100%;
+}
+
 .container ul {
     margin-bottom: 100px;
 }
